@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Geo
+        psr4_prefix: Geo
+        src_path: app
